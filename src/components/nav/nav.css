@@ -17,5 +17,18 @@ nav {
 nav a{
     background: transparent;
     padding: 0.9rem;
-    
+    border-radius: 50%;
+    color: var(--color-light);
+    font-size: 1.1rem;
+    line-height: 0.7rem;
+}
+
+nav a:hover{
+    background: rgba(0, 0, 0, 0.3);
+}
+
+nav a.active{
+    background: var(--color-bg);
+    color: var(--color-white);
+
 }
