@@ -10,7 +10,7 @@
 - VS code
 - Git
 
- > Note: This project was originally made in CSS, but at version v.1.0 I've migrated it to SCSS.
+ > Note: This project was originally made in CSS, but at version [v.1.0](https://github.com/brunogroth/Portfolio-React-Website/releases/tag/v1.0) I've migrated it to SCSS.
 
 ## This website is avaliable at
  -  [🚀 My Website 🚀](https://brunogroth.github.io/Portfolio-React-Website/)
