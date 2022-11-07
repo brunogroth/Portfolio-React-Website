@@ -1,5 +1,5 @@
 import React from 'react'
-import './testimonials.css'
+import './testimonials.scss'
 const Testimonials = () => {
   return (
     <div>

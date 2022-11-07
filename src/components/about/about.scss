@@ -1,3 +1,5 @@
+@import "../../index.scss";
+
 .about-container{
     display: grid;
     grid-template-columns: 35% 50%;
@@ -8,7 +10,7 @@
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
-    background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
+    background: linear-gradient(45deg, transparent, $color-primary, transparent);
     display: grid;
     place-items: center;
 }
@@ -17,7 +19,7 @@
     border-radius: 2rem;
     overflow: hidden;
     transform:rotate(10deg);
-    transition: var(--transition);
+    transition: $transition;
 }
 
 .about-me-image:hover{
@@ -31,7 +33,7 @@
 }
 
 .about-card{
-    background: var(--color-bg-variant);
+    background: $color-bg-variant;
     border: 1px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
@@ -40,13 +42,13 @@
 
 .about-card:hover{
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: $color-primary-variant;
     cursor: default;
     transition: 400ms;
 }
 
 .about-icon{
-    color: var(--color-primary);
+    color: $color-primary;
     font-size: 1.4rem;
     margin-bottom: 1rem;
 }
@@ -57,15 +59,16 @@
 
 .about-card small{
     font-size: 0.7rem;
-    color: var(--color-light);
+    color: $color-light;
 }
 
 .about-container p{
     margin: 2rem 0 2.6rem;
-    color: var(--color-light);
+    color: $color-light;
 }
 
 /* ========== RESPONSIVE ========= */
+
   @media screen and (max-width: 1024px){
     .about-container{
         grid-template-columns: 1fr;

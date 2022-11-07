@@ -1,0 +1,63 @@
+@import "../../index.scss";
+.services-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:3rem;
+}
+.service {
+    background: rgba(44, 44, 108, 0.8);
+    border-radius: 0 0 2rem 2rem;
+    border: 1px solid $color-bg-variant;
+    height: fit-content;
+    transition: $transition;
+}
+.service:hover{
+    background: transparent;
+    border-color: rgba(44, 44, 108, 0.8);
+}
+.service-head{
+    background: $color-bg;
+    padding: 2rem;
+    border-radius: 0 0 2rem 2rem;
+}
+.service-head h3{
+    font-size: 1rem;
+    text-align: center;
+}
+.service-list{
+    padding: 2rem;
+
+    li{
+        display:flex;
+        gap: 1rem;
+        margin-bottom: 0.8rem;
+    }
+}
+
+.service-list-icon{
+    color: $color-primary;
+    margin-top: 2px;
+    p{
+        font-size: 0.9rem;
+    }
+}
+
+/* ============ RESPONSIVE ============ */
+
+@media screen and (max-width: 1024px){
+    .services-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+    
+    .service{
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .services-container{
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}

@@ -5,12 +5,15 @@
 ## Built With
 
 - HTML5/CSS3
+- SASS
 - React
 - VS code
 - Git
 
+ > Note: This project was originally made in CSS, but at version v.1.0 I've migrated it to SCSS.
+
 ## This website is avaliable at
- - [My Website](https://brunogroth.live)
+ - [My Website](https://brunogroth.github.io/Portfolio-React-Website/)
 
 # Getting Started
 
@@ -36,6 +39,12 @@
 - ```
   npm install
   ``` 
+  
+  - Also install SASS
+  - ```
+    npm install -g sass
+    ```
+
 - To run app in the development mode run 
 - ```
   npm start

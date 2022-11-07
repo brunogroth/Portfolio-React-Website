@@ -1,5 +1,5 @@
 import React from 'react'
-import './experience.css'
+import './experience.scss'
 import ExperienceItems from './ExperienceItems'
 
 

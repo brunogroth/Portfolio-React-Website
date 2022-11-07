@@ -1,23 +1,25 @@
+@import "../../index.scss";
+
 .experience-container{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
 }
 .experience-container > div{
-    background: var(--color-bg-variant);
+    background: $color-bg-variant;
     padding: 2.4rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;   
-    transition: var(--transition);
+    transition: $transition;
 }
 .experience-container > div:hover{
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: $color-primary-variant;
 }
 .experience-container > div h3{
     text-align: center;
     margin-bottom: 2rem;
-    color: var(--color-primary);
+    color: $color-primary;
 }
 .experience-content{
     display: grid;
@@ -30,11 +32,12 @@
 }
 .experience-details-icon{
     margin-top: 6px;
-    color: var(--color-primary);
+    color: $color-primary;
 }
 
 
 /* ========= RESPONSIVE ========== */
+
 @media screen and (max-width: 1024px){
     .experience-container{
         grid-template-columns: 1fr;
