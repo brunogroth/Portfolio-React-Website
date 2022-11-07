@@ -1,6 +1,6 @@
 # Portfolio - Bruno Groth
 
-> Welcome! I'm Bruno and this is my portfolio.
+😄 Welcome! I'm Bruno and this is my portfolio.
 
 ## Built With
 
@@ -13,7 +13,7 @@
  > Note: This project was originally made in CSS, but at version v.1.0 I've migrated it to SCSS.
 
 ## This website is avaliable at
- - [My Website](https://brunogroth.github.io/Portfolio-React-Website/)
+ -  [🚀 My Website 🚀](https://brunogroth.github.io/Portfolio-React-Website/)
 
 # Getting Started
 
@@ -40,10 +40,10 @@
   npm install
   ``` 
   
-  - Also install SASS
-  - ```
-    npm install -g sass
-    ```
+ - Install SASS is also necessary
+ - ```
+   npm install sass
+   ```
 
 - To run app in the development mode run 
 - ```
@@ -54,10 +54,13 @@
 :man: **Bruno Groth**
 - [GitHub](https://github.com/brunogroth)
 - [LinkedIn](https://linkedin.com/in/bruno-groth/)
+
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
 - Feel free to check the [issues page](https://github.com/brunogroth/Portfolio-React-Website/issues).
+
 ## Show your support
 Give a ⭐ if you like this project!
+
 ## Acknowledgments
 Thanks to [EGATOR](https://www.youtube.com/watch?v=G-Cr00UYokU&list=WL&index=55) tutorial and [Meri-MG](https://github.com/Meri-MG) Source code & README pattern!
