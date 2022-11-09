@@ -16,14 +16,15 @@
 }
 
 .about-me-image{
+    padding: 1rem;
     border-radius: 2rem;
     overflow: hidden;
     transform:rotate(10deg);
     transition: $transition;
-}
-
-.about-me-image:hover{
+    
+    &:hover{
     transform: rotate(0);
+    }
 }
 
 .about-cards{
@@ -38,13 +39,13 @@
     border-radius: 1rem;
     padding: 2rem;
     text-align: center;
-}
 
-.about-card:hover{
-    background: transparent;
-    border-color: $color-primary-variant;
-    cursor: default;
-    transition: 400ms;
+    &:hover{
+        background: transparent;
+        border-color: $color-primary-variant;
+        cursor: default;
+        transition: 400ms;
+        }
 }
 
 .about-icon{
@@ -53,18 +54,23 @@
     margin-bottom: 1rem;
 }
 
-.about-card h5{
+.about-card{
+     h5{
     font-size: 0.95rem;
-}
+    }
 
-.about-card small{
+    small{
     font-size: 0.7rem;
     color: $color-light;
+    }
 }
 
-.about-container p{
-    margin: 2rem 0 2.6rem;
+    .about-text{
+    padding: 2rem 0 1rem;
+    p {
+    margin-bottom: 1rem;
     color: $color-light;
+    }
 }
 
 /* ========== RESPONSIVE ========= */
@@ -79,7 +85,7 @@
         margin: 2rem auto 4rem;
     }
     .about-content p{
-       margin: 1rem 0 1.5rem; 
+       margin: 1rem 0; 
     }
 }
   
@@ -92,10 +98,12 @@
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
     }
+    
     .about-content{
         text-align: center;
-    }
-    .about-content p{
+        
+        p {
         margin: 1.5rem 0;
+        }
     }
 }

@@ -18,8 +18,8 @@ const Portfolio = () => {
               <a href="https://igorbarros.com" target="_blank" rel="noreferrer"><img src={igorbarros} alt="Igor Barros Dealer Cars website"></img></a>
             </div>
               <h3><a href="https://igorbarros.com" target="_blank" rel="noreferrer">Igor Barros Website</a></h3>
-              <p> Igor Barros is an Car Dealer at Florida. I developed and performed the complete translation of this website working for <a href="https://autoconf.com.br/" target="_blank" rel="noreferrer">Autoconf</a>.</p>
-              <p>This is a huge step for the company, putting the feet on foreign territory, and also for me, beign able to apply my english skills in hands-on.</p>
+              <p> Igor Barros is  an brazilian Car Dealer at Florida. I developed the website and performed it's complete translation working for <a href="https://autoconf.com.br/" target="_blank" rel="noreferrer">Autoconf</a>.</p>
+              <p>This is a huge step for the company, putting the feet on foreign territory, and also for me, beign able to apply my english skills in a real project.</p>
               <div className="portfolio-item-cta">
                 {/* <a href="https://igorbarros.com" className='btn'>Github</a> */}
                 <a href="https://igorbarros.com" target="_blank" rel="noreferrer" className='btn btn-primary'>Visit Website</a>
