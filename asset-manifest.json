@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio-React-Website/static/css/main.c3aaeb23.css",
-    "main.js": "/Portfolio-React-Website/static/js/main.ab0470b4.js",
+    "main.css": "/Portfolio-React-Website/static/css/main.48161945.css",
+    "main.js": "/Portfolio-React-Website/static/js/main.67077d02.js",
     "static/media/portfolio5.png": "/Portfolio-React-Website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/igorbarros.webp": "/Portfolio-React-Website/static/media/igorbarros.7df057fbc52bfe1a892c.webp",
     "static/media/me.png": "/Portfolio-React-Website/static/media/me.d9d59316d3d2f6a46205.png",
+    "static/media/profile-picture.png": "/Portfolio-React-Website/static/media/profile-picture.8566fa1b23925015e093.png",
+    "static/media/MyCV.pdf": "/Portfolio-React-Website/static/media/MyCV.7199c3817c3050137b13.pdf",
     "static/media/portfolio2.jpg": "/Portfolio-React-Website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio1.jpg": "/Portfolio-React-Website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/portfolio3.jpg": "/Portfolio-React-Website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/Portfolio-React-Website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/Portfolio-React-Website/index.html",
-    "main.c3aaeb23.css.map": "/Portfolio-React-Website/static/css/main.c3aaeb23.css.map",
-    "main.ab0470b4.js.map": "/Portfolio-React-Website/static/js/main.ab0470b4.js.map"
+    "main.48161945.css.map": "/Portfolio-React-Website/static/css/main.48161945.css.map",
+    "main.67077d02.js.map": "/Portfolio-React-Website/static/js/main.67077d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3aaeb23.css",
-    "static/js/main.ab0470b4.js"
+    "static/css/main.48161945.css",
+    "static/js/main.67077d02.js"
   ]
 }
