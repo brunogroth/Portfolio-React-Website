@@ -40,7 +40,7 @@ const About = () => {
           </div>
           <div className="about-text">
             <p>
-              I describe myself as a passionate <strong>self-taught</strong> person who <strong>loves coding</strong>, create and improve, but primarily a person who loves <strong>learn things deeply</strong>.
+              I describe myself as a passionate <strong>self-taught</strong> person who <strong>loves coding,</strong> create and improve, but primarily a person who loves <strong>learn things deeply</strong>.
             </p>
             <p>
               I've started my career in IT at <strong>15 years old</strong>, and since then I just can't imagine me doing something different.

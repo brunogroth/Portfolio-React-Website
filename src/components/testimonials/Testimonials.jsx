@@ -1,8 +1,5 @@
 import React from 'react'
 import './testimonials.scss'
-
-import { IconBase } from 'react-icons'
-import { FaUser } from 'react-icons/fa'
 const Testimonials = () => {
   return (
     <section id='testimonials'>
@@ -12,12 +9,11 @@ const Testimonials = () => {
       <div className="container testimonials-container">
         <article className="testimonial">
           <div className="client-avatar">
-            <FaUser/>
-            <h5 className='client-name'> Name 01 </h5>
-            <small className='client-review'>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem illum libero blanditiis quis asperiores, beatae veniam reiciendis et magnam quod dolore voluptatibus velit molestiae sit. Odio nisi sunt ab laboriosam?
-            </small>
           </div>
+            <h5 className='client-name'><i>John Galt</i></h5>
+            <small className='client-review'>
+            <i>Nothing to show yet. Soon there will be a Testimonial here. </i><a href="https://linkedin.com/in/bruno-groth/#endorsements">Be The First!</a>
+            </small> 
         </article>
       </div>
     </section>

@@ -48,7 +48,7 @@ const Contact = () => {
           </ContactItem>
           
           <ContactItem title={"Phone"} content={"+55(41)99996-4650"} url={"tel:+5541999964650"} cta={"Call Me"}>
-            <BsPhone className='contact-item-icon' onClick={notify}/>
+            <BsPhone className='contact-item-icon'/>
           </ContactItem>
         </div>
 

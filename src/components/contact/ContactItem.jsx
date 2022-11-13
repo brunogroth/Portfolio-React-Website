@@ -5,7 +5,7 @@ const ContactItem = ({title, content, url, cta, children}) => {
         <article className='contact-item'>
             {children} {/* Icon */}
             <h4>{title}</h4>
-            <h5> <a href={url} target='_blank'>{content}</a> </h5>
+            <h5> <a href={url} target='_blank' rel="noreferrer">{content}</a> </h5>
             <a href={url}>{cta}</a>
         </article>
 

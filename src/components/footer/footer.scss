@@ -1,0 +1,63 @@
+@import "../../index.scss";
+
+footer{
+    background: $color-bg-variant;
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 7rem;
+    a{
+        color: $color-light;
+    }
+
+    .footer-logo{
+        font-size: 2rem;
+        font-weight: 500;
+        margin-bottom: 2rem;
+        display: inline-block;
+    }
+
+    .permalinks{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap:2rem;
+        margin: 0 auto 3rem;
+
+        @media screen and (max-width: 600px){
+            margin: 0 1rem 3rem 1rem;
+        }
+    }
+
+    .footer-socials{
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        margin-bottom: 4rem;
+        
+        a{
+            color: $color-white;
+            background: $color-bg;
+            padding: 0.8rem;
+            border-radius: 0.7rem;
+            display: flex;
+            border: 1px solid transparent;
+
+            &:hover{
+                background: transparent;
+                color: $color-bg;
+                border-color: $color-bg;
+            }
+        }
+
+        @media screen and (max-width: 600px) {
+            margin-bottom: 2.6rem;        
+        }
+    }
+}
+
+.footer-copyright{
+    margin-bottom: 4rem;
+    color: $color-light;
+}
+
