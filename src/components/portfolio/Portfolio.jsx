@@ -1,11 +1,11 @@
 import React from 'react'
 import './portfolio.scss'
 import IGORBARROS from '../../assets/igorbarros.webp'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import ATLANTISMOTORS from '../../assets/atlantis.webp'
+import GALERIA from '../../assets/galeria.webp'
+import RTCAR from '../../assets/RTCar.webp'
+import NovaMarka from '../../assets/NovaMarka.webp'
+import Premier from '../../assets/Premier.webp'
 
 const projects = [
   {
@@ -18,43 +18,43 @@ const projects = [
   },
   {
     id: 2,
-    image: IMG1,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com/brunogroth',
-    description: '',
-    website: 'https://github.com/brunogroth'
+    image: ATLANTISMOTORS,
+    title: 'Atlantis Motors',
+    github: '',
+    description: "Atlantis Motors is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+    website: 'https://atlantismotors.com.br'
   },
   {
     id: 3,
-    image: IMG2,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com/brunogroth',
-    description: '',
-    website: 'https://github.com/brunogroth'
+    image: GALERIA,
+    title: 'Galeria Dos Carros | "Car Gallery"',
+    github: '',
+    description: "Galeria Dos Carros is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+    website: 'https://galeriadoscarros.com.br/'
   },
   {
     id: 4,
-    image: IMG3,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com/brunogroth',
-    description: '',
-    website: 'https://github.com/brunogroth'
+    image: RTCAR,
+    title: 'RT Car',
+    github: '',
+    description: "RT Car is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+    website: 'https://rtcar.com.br/'
   },
   {
     id: 5,
-    image: IMG4,
-    title: 'This is a portfolio item title',
-    github: 'https://github.com/brunogroth',
+    image: NovaMarka,
+    title: "Nova Marka is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+    github: '',
     description: '',
-    website: 'https://github.com/brunogroth'
+    website: 'https://novamarkaveiculos.com.br/'
   },
   {
     id: 6,
-    image: IMG5,
-    title: 'This is a portfolio item title',
+    image: Premier,
+    title: 'Portal Premier',
     github: 'https://github.com/brunogroth',
-    description: '',
-    website: 'https://github.com/brunogroth'
+    description: "Portal Premier is a premium car dealer and is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+    website: 'https://portalpremier.com.br/'
   }
 ]
 
