@@ -3,6 +3,11 @@
 .container.testimonials-container{
         width: 40%;
     }
+    @media screen and (max-width: 1024px){
+        .container.testimonials-container{
+            width: 90%;
+        }
+    }
 
 .client-avatar{
     text-align: center;
@@ -14,4 +19,12 @@
     border: 0.4rem solid $color-primary-variant;
 }
 
+.translate{
+    margin-top: 1rem;
+}
+
+.give-testimonial{
+    display: block;
+    margin-top: 2rem;
+}
 /* Pending testimonials styles in reason of not using this section*/
