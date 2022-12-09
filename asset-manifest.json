@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-React-Website/static/css/main.9b87abb8.css",
-    "main.js": "/Portfolio-React-Website/static/js/main.e8f58738.js",
+    "main.css": "/Portfolio-React-Website/static/css/main.ae4440d1.css",
+    "main.js": "/Portfolio-React-Website/static/js/main.62891a7a.js",
     "static/media/igorbarros.webp": "/Portfolio-React-Website/static/media/igorbarros.7df057fbc52bfe1a892c.webp",
     "static/media/me.png": "/Portfolio-React-Website/static/media/me.d9d59316d3d2f6a46205.png",
     "static/media/profile-picture.png": "/Portfolio-React-Website/static/media/profile-picture.8566fa1b23925015e093.png",
@@ -12,11 +12,11 @@
     "static/media/atlantis.webp": "/Portfolio-React-Website/static/media/atlantis.c1c56a0af648b0b12d8b.webp",
     "static/media/RTCar.webp": "/Portfolio-React-Website/static/media/RTCar.96f1ea54211a24cf5dcb.webp",
     "index.html": "/Portfolio-React-Website/index.html",
-    "main.9b87abb8.css.map": "/Portfolio-React-Website/static/css/main.9b87abb8.css.map",
-    "main.e8f58738.js.map": "/Portfolio-React-Website/static/js/main.e8f58738.js.map"
+    "main.ae4440d1.css.map": "/Portfolio-React-Website/static/css/main.ae4440d1.css.map",
+    "main.62891a7a.js.map": "/Portfolio-React-Website/static/js/main.62891a7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b87abb8.css",
-    "static/js/main.e8f58738.js"
+    "static/css/main.ae4440d1.css",
+    "static/js/main.62891a7a.js"
   ]
 }
