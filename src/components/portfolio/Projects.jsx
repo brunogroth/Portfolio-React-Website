@@ -1,9 +1,9 @@
 import IGORBARROS from '../../assets/igorbarros.webp'
 import ATLANTISMOTORS from '../../assets/atlantis.webp'
-import GALERIA from '../../assets/galeria.webp'
+import VIMARA from '../../assets/vimara.webp'
 import RTCAR from '../../assets/RTCar.webp'
 import NovaMarka from '../../assets/NovaMarka.webp'
-import Premier from '../../assets/Premier.webp'
+import KDAUTOMOVEIS from '../../assets/kdauto.webp'
 
 export const projects = [
     {
@@ -24,11 +24,11 @@ export const projects = [
     },
     {
       id: 3,
-      image: GALERIA,
-      title: 'Galeria Dos Carros | "Car Gallery"',
+      image: VIMARA,
+      title: 'Vimara Automóveis',
       github: '',
-      description: "Galeria Dos Carros is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
-      website: 'https://galeriadoscarros.com.br/'
+      description: "Vimara is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+      website: 'https://vimara.com.br/'
     },
     {
       id: 4,
@@ -48,10 +48,10 @@ export const projects = [
     },
     {
       id: 6,
-      image: Premier,
-      title: 'Portal Premier',
+      image: KDAUTOMOVEIS,
+      title: 'KD Automóveis',
       github: '',
-      description: "Portal Premier is a premium car dealer and is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
-      website: 'https://portalpremier.com.br/'
+      description: "KD Automóveis is a premium car dealer and is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+      website: 'https://kdautomoveis.com.br/'
     }
   ]
