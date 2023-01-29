@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-React-Website/static/css/main.ae4440d1.css",
-    "main.js": "/Portfolio-React-Website/static/js/main.62891a7a.js",
+    "main.js": "/Portfolio-React-Website/static/js/main.4b64e0b0.js",
     "static/media/igorbarros.webp": "/Portfolio-React-Website/static/media/igorbarros.7df057fbc52bfe1a892c.webp",
     "static/media/me.png": "/Portfolio-React-Website/static/media/me.d9d59316d3d2f6a46205.png",
     "static/media/profile-picture.png": "/Portfolio-React-Website/static/media/profile-picture.8566fa1b23925015e093.png",
     "static/media/MyCV.pdf": "/Portfolio-React-Website/static/media/MyCV.7199c3817c3050137b13.pdf",
     "static/media/NovaMarka.webp": "/Portfolio-React-Website/static/media/NovaMarka.13a469718633ef2fc3a5.webp",
-    "static/media/galeria.webp": "/Portfolio-React-Website/static/media/galeria.ec5dfc767291dbff7011.webp",
-    "static/media/Premier.webp": "/Portfolio-React-Website/static/media/Premier.5066dee7c6d25a546338.webp",
+    "static/media/kdauto.webp": "/Portfolio-React-Website/static/media/kdauto.405464e1c714c31f1d66.webp",
+    "static/media/vimara.webp": "/Portfolio-React-Website/static/media/vimara.17f82042c30bd9e4788f.webp",
     "static/media/atlantis.webp": "/Portfolio-React-Website/static/media/atlantis.c1c56a0af648b0b12d8b.webp",
     "static/media/RTCar.webp": "/Portfolio-React-Website/static/media/RTCar.96f1ea54211a24cf5dcb.webp",
     "index.html": "/Portfolio-React-Website/index.html",
     "main.ae4440d1.css.map": "/Portfolio-React-Website/static/css/main.ae4440d1.css.map",
-    "main.62891a7a.js.map": "/Portfolio-React-Website/static/js/main.62891a7a.js.map"
+    "main.4b64e0b0.js.map": "/Portfolio-React-Website/static/js/main.4b64e0b0.js.map"
   },
   "entrypoints": [
     "static/css/main.ae4440d1.css",
-    "static/js/main.62891a7a.js"
+    "static/js/main.4b64e0b0.js"
   ]
 }
