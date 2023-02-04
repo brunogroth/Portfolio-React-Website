@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-React-Website/static/css/main.ae4440d1.css",
-    "main.js": "/Portfolio-React-Website/static/js/main.4b64e0b0.js",
+    "main.js": "/Portfolio-React-Website/static/js/main.a3bc9d27.js",
     "static/media/igorbarros.webp": "/Portfolio-React-Website/static/media/igorbarros.7df057fbc52bfe1a892c.webp",
     "static/media/me.png": "/Portfolio-React-Website/static/media/me.d9d59316d3d2f6a46205.png",
     "static/media/profile-picture.png": "/Portfolio-React-Website/static/media/profile-picture.8566fa1b23925015e093.png",
@@ -9,14 +9,14 @@
     "static/media/NovaMarka.webp": "/Portfolio-React-Website/static/media/NovaMarka.13a469718633ef2fc3a5.webp",
     "static/media/kdauto.webp": "/Portfolio-React-Website/static/media/kdauto.405464e1c714c31f1d66.webp",
     "static/media/vimara.webp": "/Portfolio-React-Website/static/media/vimara.17f82042c30bd9e4788f.webp",
-    "static/media/atlantis.webp": "/Portfolio-React-Website/static/media/atlantis.c1c56a0af648b0b12d8b.webp",
+    "static/media/strata.webp": "/Portfolio-React-Website/static/media/strata.fd93d58e04720dd96d07.webp",
     "static/media/RTCar.webp": "/Portfolio-React-Website/static/media/RTCar.96f1ea54211a24cf5dcb.webp",
     "index.html": "/Portfolio-React-Website/index.html",
     "main.ae4440d1.css.map": "/Portfolio-React-Website/static/css/main.ae4440d1.css.map",
-    "main.4b64e0b0.js.map": "/Portfolio-React-Website/static/js/main.4b64e0b0.js.map"
+    "main.a3bc9d27.js.map": "/Portfolio-React-Website/static/js/main.a3bc9d27.js.map"
   },
   "entrypoints": [
     "static/css/main.ae4440d1.css",
-    "static/js/main.4b64e0b0.js"
+    "static/js/main.a3bc9d27.js"
   ]
 }
