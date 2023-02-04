@@ -1,5 +1,5 @@
 import IGORBARROS from '../../assets/igorbarros.webp'
-import ATLANTISMOTORS from '../../assets/atlantis.webp'
+import STRATA from '../../assets/strata.webp'
 import VIMARA from '../../assets/vimara.webp'
 import RTCAR from '../../assets/RTCar.webp'
 import NovaMarka from '../../assets/NovaMarka.webp'
@@ -16,10 +16,10 @@ export const projects = [
     },
     {
       id: 2,
-      image: ATLANTISMOTORS,
-      title: 'Atlantis Motors',
+      image: STRATA,
+      title: 'Strata Motors',
       github: '',
-      description: "Atlantis Motors is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
+      description: "Strata Motors is one of more than 100 websites that I've developed for Car Dealers at Autoconf.",
       website: 'https://atlantismotors.com.br'
     },
     {
